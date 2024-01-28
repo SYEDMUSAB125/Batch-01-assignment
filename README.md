@@ -18,7 +18,7 @@ Implement the required functionality according to the comments in the code.
 Test your implementation by running the test.js file:
 ```bash
  node app.js
-Resources
+###Resources
 JavaScript MDN Documentation
 Feel free to reach out if you have any questions or need clarification on the assignment.
 
